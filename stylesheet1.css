@@ -38,7 +38,7 @@ body{
     padding: 20px 50px;
     font-size: 1.25rem;
     position: relative;
-    background: #5f0962;
+    background: rgb(150, 17, 105);
     color: rgb(224, 218, 226);
     border-radius: 30px;
     transition: transform 0.3s ease;

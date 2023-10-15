@@ -38,8 +38,7 @@ body{
     padding: 20px 50px;
     font-size: 1.25rem;
     position: relative;
-    margin: 32px;
-    background: rgb(6, 83, 35);
+    background: #5f0962;
     color: rgb(224, 218, 226);
     border-radius: 30px;
     transition: transform 0.3s ease;
